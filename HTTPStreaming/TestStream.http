@@ -1,0 +1,2 @@
+﻿GET http://localhost:8080/session/12345
+Keep-Alive: true
