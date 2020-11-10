@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\jqt3o\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\jqt3o\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_HTTPStreaming.-861082291.00" t="ExcludeRecursive" />
-    <e p="C:\Users\jqt3o\AppData\Roaming\JetBrains\Rider2020.3\scratches" t="IncludeRecursive" />
-    <e p="C:\Users\jqt3o\sd\HTTPStreaming" t="IncludeFlat">
+    <e p="C:\Users\jqt3o\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_HTTPStreaming.1601738666.00" t="ExcludeRecursive" />
+    <e p="C:\Users\jqt3o\RiderProjects\HttpListenerStreaming" t="IncludeFlat">
       <e p="HTTPStreaming" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="HTTPStreaming.csproj" t="IncludeRecursive" />

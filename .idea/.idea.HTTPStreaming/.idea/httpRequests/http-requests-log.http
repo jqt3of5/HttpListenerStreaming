@@ -1,4 +1,55 @@
 GET http://localhost:8080/session/12345
+Connection: keep-alive
+
+<> 2020-11-09T190446.200.txt
+
+###
+
+GET http://localhost:8080/session/12345
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+
+###
+
+GET http://localhost:8080/session/12345
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+
+<> 2020-11-09T184258.200.txt
+
+###
+
+GET http://localhost:8080/session/12345
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+
+<> 2020-11-09T183657.200.txt
+
+###
+
+GET http://localhost:8080/session/12345
+Keep-Alive: true
+Connection: Keep-Alive
+
+<> 2020-11-09T182043.200.txt
+
+###
+
+GET http://localhost:8080/session/12345
+Keep-Alive: true
+
+<> 2020-11-09T182022.200.txt
+
+###
+
+GET http://localhost:8080/session/12345
+Keep-Alive: true
+
+<> 2020-11-09T181931.200.txt
+
+###
+
+GET http://localhost:8080/session/12345
 Keep-Alive: true
 
 <> 2020-11-09T170248.200.txt

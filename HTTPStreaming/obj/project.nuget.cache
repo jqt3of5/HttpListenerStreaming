@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PPcTkmM0l6kiRILYHGTcwkfRxlg+lOpRp8AY0Y30lrvxmFvwJoH16LNPRRadl0yocDng+3fSgmsyx3Td7E6ktQ==",
+  "dgSpecHash": "CQqZPlnMD/TiVk2/U20N/y5BwmljqyMjWoYmlD8vfKPAzjNWoh8fmdMBG5FVTj16B3rO/YhZBQLILs0rNtgocg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jqt3o\\sd\\HTTPStreaming\\HTTPStreaming\\HTTPStreaming.csproj",
+  "projectFilePath": "C:\\Users\\jqt3o\\RiderProjects\\HttpListenerStreaming\\HTTPStreaming\\HTTPStreaming.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

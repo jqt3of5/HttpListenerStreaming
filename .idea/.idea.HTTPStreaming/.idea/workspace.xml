@@ -4,7 +4,31 @@
     <projectFile>HTTPStreaming/HTTPStreaming.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee3cc602-b187-4ba4-aae7-ce62885765b1" name="Default Changelist" comment="" />
+    <list default="true" id="ee3cc602-b187-4ba4-aae7-ce62885765b1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.HTTPStreaming/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HTTPStreaming/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.HTTPStreaming/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HTTPStreaming/.idea/httpRequests/http-requests-log.http" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.HTTPStreaming/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HTTPStreaming/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTTPStreaming/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HTTPStreaming/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTTPStreaming/TestStream.http" beforeDir="false" afterPath="$PROJECT_DIR$/HTTPStreaming/TestStream.http" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTTPStreaming/bin/Debug/net5.0/HTTPStreaming.dll" beforeDir="false" afterPath="$PROJECT_DIR$/HTTPStreaming/bin/Debug/net5.0/HTTPStreaming.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTTPStreaming/bin/Debug/net5.0/HTTPStreaming.exe" beforeDir="false" afterPath="$PROJECT_DIR$/HTTPStreaming/bin/Debug/net5.0/HTTPStreaming.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTTPStreaming/bin/Debug/net5.0/HTTPStreaming.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/HTTPStreaming/bin/Debug/net5.0/HTTPStreaming.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTTPStreaming/bin/Debug/net5.0/HTTPStreaming.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/HTTPStreaming/bin/Debug/net5.0/HTTPStreaming.runtimeconfig.dev.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTTPStreaming/bin/Debug/net5.0/HTTPStreaming.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/HTTPStreaming/bin/Debug/net5.0/HTTPStreaming.runtimeconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTTPStreaming/obj/Debug/net5.0/HTTPStreaming.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/HTTPStreaming/obj/Debug/net5.0/HTTPStreaming.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTTPStreaming/obj/Debug/net5.0/HTTPStreaming.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/HTTPStreaming/obj/Debug/net5.0/HTTPStreaming.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTTPStreaming/obj/Debug/net5.0/HTTPStreaming.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/HTTPStreaming/obj/Debug/net5.0/HTTPStreaming.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTTPStreaming/obj/Debug/net5.0/HTTPStreaming.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/HTTPStreaming/obj/Debug/net5.0/HTTPStreaming.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTTPStreaming/obj/Debug/net5.0/HTTPStreaming.dll" beforeDir="false" afterPath="$PROJECT_DIR$/HTTPStreaming/obj/Debug/net5.0/HTTPStreaming.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTTPStreaming/obj/Debug/net5.0/HTTPStreaming.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/HTTPStreaming/obj/Debug/net5.0/HTTPStreaming.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTTPStreaming/obj/Debug/net5.0/HTTPStreaming.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/HTTPStreaming/obj/Debug/net5.0/HTTPStreaming.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTTPStreaming/obj/HTTPStreaming.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/HTTPStreaming/obj/HTTPStreaming.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTTPStreaming/obj/HTTPStreaming.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/HTTPStreaming/obj/HTTPStreaming.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTTPStreaming/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/HTTPStreaming/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTTPStreaming/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/HTTPStreaming/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTTPStreaming/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/HTTPStreaming/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTTPStreaming/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/HTTPStreaming/obj/rider.project.restore.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,8 +41,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/8607E750-017B-4F32-BC5D-3E1BA671587C/13/HttpListener.Windows.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E05A5E5D-A38E-4ABD-8C13-C04D6E566F5D/09/46f9642e/ThreadPoolWorkQueue.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4B1A28DF-F41C-4CDC-A99F-FB3AE6BF7D7C/41/f48cca5e/HttpCompletionOption.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E05A5E5D-A38E-4ABD-8C13-C04D6E566F5D/db/2214f2af/Task.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
@@ -33,8 +65,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.35008192" />
-    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.29983616" />
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.3502052" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.0" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -50,6 +82,59 @@
   <component name="RestClientSettings">
     <option name="REQUEST_HISTORY">
       <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080/session/12345" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Connection" />
+                <option name="value" value="keep-alive" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080/session/12345" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Connection" />
+                <option name="value" value="Keep-Alive" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Transfer-Encoding" />
+                <option name="value" value="chunked" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080/session/12345" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Keep-Alive" />
+                <option name="value" value="true" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Connection" />
+                <option name="value" value="Keep-Alive" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
         <RestClientRequest>
           <option name="httpMethod" value="GET" />
           <option name="urlBase" value="http://localhost:8080/session/12345" />
@@ -117,6 +202,7 @@
       <updated>1604964850755</updated>
       <workItem from="1604964872277" duration="67000" />
       <workItem from="1604964963562" duration="2226000" />
+      <workItem from="1604970704254" duration="9001000" />
     </task>
     <servers />
   </component>
@@ -127,5 +213,12 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="DotNet Exception Breakpoints" />
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
